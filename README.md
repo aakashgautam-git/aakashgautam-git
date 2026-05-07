@@ -1,6 +1,6 @@
-<!-- Futuristic Banner -->
+<!-- Anime Coding Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Aakash%20Gautam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aakash Gautam</h1>
@@ -20,6 +20,8 @@
 - 💡 Interested in **Open Source, Distributed Systems & Developer Tools**
 - 🎯 Goal: Contribute to **GSoC, LFX & impactful OSS organizations**
 - ⚡ Love building hackathon projects with real-world impact
+- 🏆 **2nd Runner-Up — Atharv Hackathon**
+- 🔥 **Top 10 Finalist — Solaris Hackathon (MCP Track)**
 - 📫 Reach me at: **aakashgautam91719@gmail.com**
 
 ---
@@ -77,3 +79,70 @@ Distributed Architectures
 Scalable Backend Systems
 Blockchain Applications
 Hackathons
+System Design
+Developer Tools
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 ArkiMind — AI Architect Assistant
+- AI-powered architecture design assistant using natural language commands
+- Integrated Gemini + MCP for real-time design workflows
+- Lightweight CSS-based 3D rendering engine
+- Supports seismic/climatic optimization and construction planning
+
+---
+
+## 🔹 SolarX — Blockchain Energy Trading Platform
+- Decentralized energy trading platform using blockchain
+- 1 Token = 1kWh energy exchange system
+- MetaMask + Polygon integration for transparent transactions
+
+---
+
+## 🔹 YelpCamp — Full Stack Web Application
+- Full-stack campground platform with authentication & CRUD
+- Built using Node.js, Express, MongoDB & React concepts
+- Integrated Mapbox, Cloudinary & secure authentication
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aakashgautam-git&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashgautam-git&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashgautam-git&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# ⚡ GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aakashgautam-git&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakashgautam-git&label=Profile%20Views&color=7A5AF8&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+</p>
