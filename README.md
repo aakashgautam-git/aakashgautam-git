@@ -1,6 +1,7 @@
 
+<!-- Anime Hacker Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=2070&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2070&auto=format&fit=crop" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aakash Gautam</h1>
@@ -112,9 +113,7 @@ Developer Tools
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aakashgautam-git&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashgautam-git&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashgautam-git&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
