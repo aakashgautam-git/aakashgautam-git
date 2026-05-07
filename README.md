@@ -1,12 +1,12 @@
-<!-- Anime Coding Banner -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+  <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=2070&auto=format&fit=crop" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aakash Gautam</h1>
 <h3 align="center">🚀 AI Engineering Enthusiast | Open Source Learner | Full Stack Developer</h3>
 
-<!-- Animated Typing -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7A5AF8&center=true&vCenter=true&width=700&lines=AI+Engineering+Enthusiast;Open+Source+Contributor;Building+Scalable+Systems;MCP+%26+Full+Stack+Developer;Future+LFX+%26+GSoC+Contributor+🚀" />
 </p>
