@@ -14,20 +14,20 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🌱 Currently exploring **AI Engineering, MCP Architectures & Scalable Systems**
-- 🚀 Building projects in **Full Stack, Blockchain & AI-powered platforms**
-- 💡 Interested in **Open Source, Distributed Systems & Developer Tools**
-- 🎯 Goal: Contribute to **GSoC, LFX & impactful OSS organizations**
-- ⚡ Love building hackathon projects with real-world impact
-- 🏆 **2nd Runner-Up — Atharv Hackathon**
-- 🔥 **Top 10 Finalist — Solaris Hackathon (MCP Track)**
-- 📫 Reach me at: **aakashgautam91719@gmail.com**
+-  Currently exploring **AI Engineering, MCP Architectures & Scalable Systems**
+-  Building projects in **Full Stack, Blockchain & AI-powered platforms**
+-  Interested in **Open Source, Distributed Systems & Developer Tools**
+-  Goal: Contribute to **GSoC, LFX & impactful OSS organizations**
+-  Love building hackathon projects with real-world impact
+-  **2nd Runner-Up — Atharv Hackathon**
+-  **Top 10 Finalist — Solaris Hackathon (MCP Track)**
+-  Reach me at: **aakashgautam91719@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aakash-gautam-924b4038a/" target="blank">
@@ -41,36 +41,36 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 💻 Languages
+##  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
 
-## 🌐 Frontend
+##  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
 </p>
 
-## ⚙️ Backend
+##  Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-## 🗄️ Database
+##  Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-## 🧰 Tools & Platforms
+##  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,postman,linux,vscode" />
 </p>
 
 ---
 
-# 🚀 Interests
+#  Interests
 
 ```txt
 AI Engineering
@@ -86,7 +86,7 @@ Developer Tools
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🔹 ArkiMind — AI Architect Assistant
 - AI-powered architecture design assistant using natural language commands
