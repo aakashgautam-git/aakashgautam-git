@@ -4,7 +4,7 @@
   <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2070&auto=format&fit=crop" width="80%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aakash Gautam</h1>
+<h1 align="center">Hi , I'm Aakash Gautam</h1>
 <h3 align="center">🚀 AI Engineering Enthusiast | Open Source Learner | Full Stack Developer</h3>
 
 
@@ -96,7 +96,7 @@ Developer Tools
 
 ---
 
-## 🔹 SolarX — Blockchain Energy Trading Platform
+## 🔹 SolariX — Blockchain Energy Trading Platform
 - Decentralized energy trading platform using blockchain
 - 1 Token = 1kWh energy exchange system
 - MetaMask + Polygon integration for transparent transactions
